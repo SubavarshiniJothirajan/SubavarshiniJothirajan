@@ -32,5 +32,5 @@ Java, MySQL
 - OOP Design Patterns
 
 ## Connect
-LinkedIn: your-linkedin-url
+LinkedIn: https://www.linkedin.com/in/subavarshini-j/
 Email: subavarshini454@gmail.com
