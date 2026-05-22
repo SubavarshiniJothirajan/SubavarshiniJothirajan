@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Subavarshini 👋
 
-<!--
-**SubavarshiniJothirajan/SubavarshiniJothirajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Graduate passionate about Backend and Full-Stack Development.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Java
+- Spring Boot
+- Python
+- JavaScript
+- Angular
+- Node.js
+- MySQL
+- MongoDB
+- Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### API Rate Limiting System
+Java, Spring Boot, Redis
+- Distributed rate limiting
+- Redis + Lua scripting
+- REST APIs
+
+### Social Blogging Platform
+Angular, Node.js, Express.js, MongoDB
+- JWT Authentication
+- CRUD Operations
+- RESTful APIs
+
+### Wellness Way
+Java, MySQL
+- Health tracking application
+- OOP Design Patterns
+
+## Connect
+LinkedIn: your-linkedin-url
+Email: subavarshini454@gmail.com
